@@ -1311,29 +1311,8 @@
     </model>
     <model>
       <configItem>
-       <name>jis108</name>
-       <description>JIS 108 keys layout based on FILCO Majestouch2</description>
-       <vendor>DIATEC CORPORATION</vendor>
-     </configItem>
-    </model>
-        <model>
-      <configItem>
-       <name>jis109</name>
-       <description>JIS 109 keys layout based on FILCO Majestouch2</description>
-       <vendor>DIATEC CORPORATION</vendor>
-     </configItem>
-    </model>
-    <model>
-      <configItem>
        <name>jis91</name>
        <description>JIS 91 keys layout based on FILCO Majestouch2</description>
-       <vendor>DIATEC CORPORATION</vendor>
-     </configItem>
-    </model>
-    <model>
-      <configItem>
-       <name>jis91_numlk</name>
-       <description>JIS 91 keys layout (ScrollLock and NumLock indicators swapped)</description>
        <vendor>DIATEC CORPORATION</vendor>
      </configItem>
     </model>
@@ -1342,7 +1321,6 @@
     <layout>
       <configItem>
         <name>us</name>
-        
         <shortDescription>en</shortDescription>
         <description>English (US)</description>
         <languageList>

@@ -186,10 +186,7 @@
   htcdream        Htc Dream phone
   teck227         Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)
   teck229         Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, additional Super and Menu key)
-  jis108      JIS 108 keys layout based on FILCO Majestouch2
-  jis109      JIS 109 keys layout based on FILCO Majestouch2
   jis91       JIS 91 keys layout based on FILCO Majestouch2
-  jis91_numlk JIS 91 keys layout (ScrollLock and NumLock indicators swapped)
 
 ! layout
   us              English (US)
