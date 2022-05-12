@@ -1311,9 +1311,9 @@
     </model>
     <model>
       <configItem>
-       <name>jis91</name>
-       <description>JIS 91 keys layout based on FILCO Majestouch2</description>
-       <vendor>DIATEC CORPORATION</vendor>
+       <name>jis88</name>
+       <description>Thinkpad 88 key JIS "modern" layout</description>
+       <vendor>Lenovo</vendor>
      </configItem>
     </model>
   </modelList>

@@ -148,7 +148,7 @@
   sun_type7_usb         =   sun(type7)
   sun_type7_euro_usb    =   sun(type7tuv)
   sun_type7_unix_usb    =   sun(type7unix)
-  jis91                 =   jis(jis91)
+  thinkpadjis88                 =   jis(jis88)
   *		=       pc(pc104)
 
 ! model		layout		variant		=	symbols

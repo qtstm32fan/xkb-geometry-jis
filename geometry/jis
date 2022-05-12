@@ -32,8 +32,8 @@
 
 
 
-default xkb_geometry "jis91" {
-    description= "JIS 91 keys layout based on T440p keyboard";
+default xkb_geometry "jis88" {
+    description= "Thinkpad 88 key JIS \"modern\" layout";
     width= 390;
     height= 160;
 
